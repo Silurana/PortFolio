@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from "react"
 import { FiGithub, FiLinkedin, FiMenu, FiX } from "react-icons/fi"
-import { Button } from "./Button"
+
 
 type NavItem = { id: string; label: string }
 
